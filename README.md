@@ -1,2 +1,2 @@
-# Employees-Database-and-Health-Record
+# Employees-Health-and-Database-Record
 This is a simple database to store employees database and their health report.
