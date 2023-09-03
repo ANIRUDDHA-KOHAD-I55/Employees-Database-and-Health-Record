@@ -27,3 +27,5 @@ try:
         time.sleep(10)
 finally:
     adapter.stop()
+
+        
