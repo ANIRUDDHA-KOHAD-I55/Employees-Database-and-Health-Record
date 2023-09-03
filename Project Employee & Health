@@ -429,7 +429,7 @@ void emp_display()
 	{
 		printf("\n\tNO SUCH EMPLOYEE RECORD FOUND.");
 	}
-	printf("\n\n\tPress 1 to Continue and 0 to EXIT");
+	printf("\n\n\tPress 1 to Continue and 0 to Exit");
 	printf("\n\n\tINPUT:\t");
 	int exit_status;
 	scanf("%d",&exit_status);
